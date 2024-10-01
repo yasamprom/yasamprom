@@ -21,4 +21,4 @@ I am student of Higher School of Economics. Faculty of computer science.
 
 📫 Contacts: 
  - stepa.strunkov@gmail.com
- - tg: @bryansk_sever111
+ - tg: @search_sx_duty
